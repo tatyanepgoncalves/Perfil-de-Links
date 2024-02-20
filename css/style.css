@@ -106,7 +106,7 @@ main .attribution a:hover {
   .card {
     border-radius: 10px;
     height: 570px;
-    width: 400px;
+    width: 300px;
     padding: 30px 20px;
   }
   .card .img {
@@ -120,9 +120,13 @@ main .attribution a:hover {
   }
   .card .id p {
     margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 25px;
+  }
+  .card .id span {
+    font-size: 20px;
   }
   .card p {
+    font-size: 10px;
     margin-bottom: 15px;
   }
   .card .box {
@@ -132,7 +136,7 @@ main .attribution a:hover {
     justify-content: center;
   }
   .card .box .box-item {
-    width: 350px;
+    width: 250px;
     margin-bottom: 16px;
     padding: 10px 0;
     border-radius: 5px;
